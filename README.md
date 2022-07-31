@@ -10,4 +10,4 @@ The [pre-processing script](https://github.com/moritzroesch/Alpine-Greening/blob
 
 Access the app [here](https://moritzroesch.users.earthengine.app/view/alpine-greening-dolomites).
 
-<img alt:"app_example src": "img/screenshot.JPG">
+![Alt text](img/screenshot.JPG "Alpine greening app example")
